@@ -2,7 +2,8 @@
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
 ### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
+![resume photo](https://github.com/NeerajGupta35483/Face-Recognition-Attendance-System/assets/94775411/4eabfe2c-e287-47b5-b965-a7e2be857918)
+
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
