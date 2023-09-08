@@ -31,17 +31,19 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
+
+![Screenshot (1)](https://github.com/NeerajGupta35483/Face-Recognition-Attendance-System/assets/94775411/10221791-edc4-452b-b3c2-49419dc95e90)
 
 ### When it Recognises me
 ![Screenshot (10)](https://github.com/NeerajGupta35483/Face-Recognition-Attendance-System/assets/94775411/2321e489-bc5c-4f59-b6da-983084928406)
 
 ### While filling automatic attendance
 
+![Screenshot (4)](https://github.com/NeerajGupta35483/Face-Recognition-Attendance-System/assets/94775411/5616eaec-a6ad-400a-9cb0-399d3cd74a47)
 
 ### Manually attendance filling UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
 
+![Screenshot (7)](https://github.com/NeerajGupta35483/Face-Recognition-Attendance-System/assets/94775411/95faee3b-f868-4317-9d56-e5a5b2156322)
 
 ### Video demo
 
